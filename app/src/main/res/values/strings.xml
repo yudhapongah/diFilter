@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">diFilter</string>
+    <string name="materi_item_cover">Materi Item Cover</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawen Close</string>
+    <string name="lesson_link_button">Lesson Link Button</string>
+    <string name="materi_load_error">Error saat mengambil list dari database</string>
+    <string name="materi_list_empty">Daftar Materi Kosong</string>
+    <string name="materi_tingkatan_tersedia">Tingkatan Tersedia</string>
+    <string name="lesson_list_empty">Daftar Video Kosong</string>
+    <string name="lesson_list_error">Gagal saat mengambil data video</string>
+    <string name="action_uji_kemampuan">Ambil Uji Kemampuan</string>
+    <string name="soal_list_empty">Belum ada soal</string>
+    <string name="soal_list_error">Gagal saat mendapatkan data soal</string>
+    <string name="button_selesai_text">Selesai</string>
+    <string name="logo_difilter">Logo Difilter</string>
+    <string name="about_description">Diharapkan aplikasi ini dapat membantu masyarakat mempelajari keterampilan khusus, hingga akhirnya dapat bekerja dan bersaing dalam sektor industri kreatif, hal ini akan mengurangi angka pengangguran serta dapat meningkatkan kesejahteraan perekonomian indonesia</string>
+    <string name="foto_1">Foto 1</string>
+    <string name="foto_2">Foto 2</string>
+    <string name="medal_logo">medal logo</string>
+    <string name="score_selamat_text">Selamat</string>
+    <string name="score_nilai_text">Nilai</string>
+</resources>
